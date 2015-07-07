@@ -19,4 +19,4 @@ The finished result is a set of three NeoPixel strips, powered by a 3.7v 500mAh 
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0003.jpg" width="50%" height="50%">
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0005.jpg" width="50%" height="50%">
 
-[Demo video](https://youtu.be/Xvr2BQ920dc) of the sketch in action.
+[Demo video](https://youtu.be/Xvr2BQ920dc&rel=0) of the sketch in action.
