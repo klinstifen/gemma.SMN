@@ -13,6 +13,7 @@ The project came about because I wanted to replace the red, blinking LED that I 
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0004.jpg" width="50%" height="50%">
 
 The finished result is a set of three strips of NeoPixels, controlled by a Gemma, and powered by a 3.7v 500mAh Lipo.
+
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0001.jpg" width="50%" height="50%">
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0002.jpg" width="50%" height="50%">
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0003.jpg" width="50%" height="50%">
