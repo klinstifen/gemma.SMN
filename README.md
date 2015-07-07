@@ -8,7 +8,7 @@
 
 gemma.SMN is a sketch written for the [Adafruit Gemma] (http://www.adafruit.com/gemma).  It converts a (S)tring to [(M)orse code] (https://en.wikipedia.org/wiki/Morse_code), and blinks out the result via an [Adafruit (N)eoPixel strips] (http://www.adafruit.com/products/1461).
 
-The project came about because I wanted to replace the red, blinking LED that I attach to my reflecting vest when I run at night.  The light was bright enough, but I wanted more than three blinking patterns.
+The project came about because I wanted to replace the red, blinking LED that I attach to my reflecting vest when running at night.  The light was bright enough, but I wanted more than three blinking patterns.
 
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0004.jpg" width="50%" height="50%">
 
