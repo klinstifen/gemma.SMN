@@ -1,17 +1,22 @@
-//Convert string to morse code and display via Neopixels
+/**
+*
+*  gemma.SMN
+*
+*  Convert string to morse code and display via Neopixels
+*
+*  7/6/2015
+*  klinstifen
+*
+**/
 
 #include <Adafruit_NeoPixel.h>
-#include <avr/power.h>
-
-//Gemma
-#define PIN 1
-#define NUMPIXELS 12
-
-//Micro
-//#define PIN 6
-//#define NUMPIXELS 16
 
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
+
+// --- BEGIN DECLARATION (PINS, PIXELS, COLORS, ETC) ---
+
+#define PIN 1
+#define NUMPIXELS 12
 
 uint32_t red = pixels.Color(255, 0, 0);
 uint32_t lightred = pixels.Color(140, 0, 0);
@@ -22,6 +27,8 @@ uint8_t dah = 180;
 uint8_t shogap = 180;
 uint8_t medgap = 420;
 uint8_t interchar = 60;
+
+// --- END DECLARATION (PINS, PIXELS, COLORS, ETC) ---
 
 void setup() {
   pixels.begin(); // Initialize the NeoPixel library.
