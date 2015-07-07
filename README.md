@@ -1,6 +1,6 @@
 # gemma.SMN
 
-##### Dependecies
+##### Dependencies
 
 [Adafruit_NeoPixel library] (https://github.com/adafruit/Adafruit_NeoPixel)
 
