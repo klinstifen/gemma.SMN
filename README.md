@@ -9,3 +9,5 @@ Convert string to morse code and display via NeoPixels
 ##### mar13 Components
 - [Adafruit Gemma] (http://www.adafruit.com/gemma) 
 - [Adafruit NeoPixel Strip] (http://www.adafruit.com/products/1461)
+
+<img src="pics/IMG_0001.jpg" alt="hi" class="inline"/>
