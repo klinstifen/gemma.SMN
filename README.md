@@ -12,13 +12,13 @@ The project came about because I wanted to replace the red, blinking LED that I 
 
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0004.jpg" width="50%" height="50%">
 
-The finished result is a set of three strips of NeoPixels, controlled by a Gemma, and powered by a 3.7v 500mAh Lipo.
+The finished result can take multiple strings (only alpha characters at present) and blink out the morse code equivalent over three strips of NeoPixels.
 
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0001.jpg" width="50%" height="50%">
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0002.jpg" width="50%" height="50%">
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0003.jpg" width="50%" height="50%">
 <img src="https://github.com/klinstifen/gemma.SMN/blob/master/images/IMG_0005.jpg" width="50%" height="50%">
 
-The sketch can take any string, but as of now it will not parse numbers or characters.
+The sketch can convert multiple string (only alpha characters at the moment).
 
-Here's a [demo video](https://youtu.be/Xvr2BQ920dc) demonstration the sketch in action.
+Here's a [demo video](https://youtu.be/Xvr2BQ920dc) of the sketch in action.
