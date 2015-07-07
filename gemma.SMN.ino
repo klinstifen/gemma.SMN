@@ -12,12 +12,11 @@
 
 #include <Adafruit_NeoPixel.h>
 
-Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
-
 // --- BEGIN DECLARATION (PINS, PIXELS, COLORS, ETC) ---
 
 #define PIN 1
 #define NUMPIXELS 12
+Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
 uint32_t red = pixels.Color(255, 0, 0);
 uint32_t lightred = pixels.Color(140, 0, 0);
